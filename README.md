@@ -1,8 +1,23 @@
-# React + Tailwind
+# 🍎 webmacOS – The Bicycle for our minds.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. One top of the standard Vite setup, [tailwindcss](https://tailwindcss.com/) is installed and ready to be used in React components.
+![image](https://github.com/user-attachments/assets/2cb8411b-ba4a-431b-849d-0048144954ac)
 
-Additional references:
+## Clone the repositotry
+```bash
+git clone https://github.com/Vishvsalvi/virtual_web_macos
+```
 
-- [Getting started with Vite](https://vitejs.dev/guide/)
-- [Tailwind documentation](https://tailwindcss.com/docs/installation)
+## Navigate to the project directory
+```bash
+cd virtual_web_macos
+```
+
+## Install the packages
+```bash
+npm install
+```
+
+## Run it
+```bash
+npm run dev
+```
